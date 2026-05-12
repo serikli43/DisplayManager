@@ -107,7 +107,7 @@ struct MenuView: View {
         .onAppear {
             refreshLevels()
         }
-        .onChange(of: monitorManager.displays) { _ in
+        .onChange(of: monitorManager.displays) {
             refreshLevels()
         }
     }
