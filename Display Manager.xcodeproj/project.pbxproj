@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		D657474A2FB3B0570027F194 /* DisplayManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DisplayManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D657474A2FB3B0570027F194 /* Display Manager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Display Manager.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		D657474B2FB3B0570027F194 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D657474A2FB3B0570027F194 /* DisplayManager.app */,
+				D657474A2FB3B0570027F194 /* Display Manager.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D65747492FB3B0570027F194 /* DisplayManager */ = {
+		D65747492FB3B0570027F194 /* Display Manager */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D65747552FB3B0590027F194 /* Build configuration list for PBXNativeTarget "DisplayManager" */;
+			buildConfigurationList = D65747552FB3B0590027F194 /* Build configuration list for PBXNativeTarget "Display Manager" */;
 			buildPhases = (
 				D65747462FB3B0570027F194 /* Sources */,
 				D65747472FB3B0570027F194 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				D657474C2FB3B0570027F194 /* Display Manager */,
 			);
-			name = DisplayManager;
+			name = "Display Manager";
 			packageProductDependencies = (
 			);
 			productName = DisplayManager;
-			productReference = D657474A2FB3B0570027F194 /* DisplayManager.app */;
+			productReference = D657474A2FB3B0570027F194 /* Display Manager.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D65747452FB3B0570027F194 /* Build configuration list for PBXProject "DisplayManager" */;
+			buildConfigurationList = D65747452FB3B0570027F194 /* Build configuration list for PBXProject "Display Manager" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D65747492FB3B0570027F194 /* DisplayManager */,
+				D65747492FB3B0570027F194 /* Display Manager */,
 			);
 		};
 /* End PBXProject section */
@@ -259,7 +259,7 @@
 				ENABLE_APP_SANDBOX = NO;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Display Manager";
+				INFOPLIST_KEY_CFBundleDisplayName = "$(TARGET_NAME)";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -292,7 +292,7 @@
 				ENABLE_APP_SANDBOX = NO;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Display Manager";
+				INFOPLIST_KEY_CFBundleDisplayName = "$(TARGET_NAME)";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -316,7 +316,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D65747452FB3B0570027F194 /* Build configuration list for PBXProject "DisplayManager" */ = {
+		D65747452FB3B0570027F194 /* Build configuration list for PBXProject "Display Manager" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D65747532FB3B0590027F194 /* Debug */,
@@ -325,7 +325,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D65747552FB3B0590027F194 /* Build configuration list for PBXNativeTarget "DisplayManager" */ = {
+		D65747552FB3B0590027F194 /* Build configuration list for PBXNativeTarget "Display Manager" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D65747562FB3B0590027F194 /* Debug */,
