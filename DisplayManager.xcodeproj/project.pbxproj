@@ -8,7 +8,6 @@
 
 /* Begin PBXFileReference section */
 		D657474A2FB3B0570027F194 /* DisplayManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DisplayManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D65747682FB3B1440027F194 /* DisplayManager-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DisplayManager-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,7 +32,6 @@
 		D65747412FB3B0570027F194 = {
 			isa = PBXGroup;
 			children = (
-				D65747682FB3B1440027F194 /* DisplayManager-Bridging-Header.h */,
 				D657474C2FB3B0570027F194 /* DisplayManager */,
 				D657474B2FB3B0570027F194 /* Products */,
 			);
